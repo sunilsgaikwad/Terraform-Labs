@@ -2,7 +2,7 @@ variable "loc" {
     default = "southeastasia"
 }
 variable "rg" {
-    default = "bunty-rg"
+    default = "sunil-rg"
 }
 
 variable "tags" {

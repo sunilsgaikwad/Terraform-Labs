@@ -17,7 +17,7 @@ resource "azurerm_resource_group" "lab1" {
   tags = var.tags
 }
 
-/*resource "azurerm_storage_account" "bs1sa" {
+/*resource "azurerm_storage_account" "sg1sa" {
   name                     = "sa${var.tags["source"]}${random_string.rnd.result}"
   resource_group_name      = azurerm_resource_group.lab1.name
   location                 = azurerm_resource_group.lab1.location
