@@ -1,6 +1,6 @@
 #terraform test labs
 #Cloned from below repository to local repository
-#https://github.com/sunilsgaikwad/terraformtest-labs.git
+#https://github.com/sunilsgaikwad/Terraform-Labs.git
 
 Lab files for https://aka.ms/citadel/terraform workshop.
 
